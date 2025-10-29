@@ -1,0 +1,5 @@
+Flask
+threading
+telebot
+requests
+json
